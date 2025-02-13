@@ -1,4 +1,4 @@
-# josue-proy
+# Proyecto de josue
 Repositorio de mi proyecto 
 
 ##descripcion
